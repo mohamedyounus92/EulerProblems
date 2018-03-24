@@ -10,7 +10,8 @@ namespace EulerProblems
     {
         static void Main(string[] args)
         {
-            SumOfEvenFibonacci obj = new SumOfEvenFibonacci();
+            //SumOfEvenFibonacci obj = new SumOfEvenFibonacci();
+            MaxHourglassSum2DArray obj = new MaxHourglassSum2DArray();
             obj.solve();
         }
     }
